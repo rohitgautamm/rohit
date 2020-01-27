@@ -156,6 +156,7 @@ e1.grid(row=0, column=1)
 e2.grid(row=1, column=1)
 button.grid(row=2,column=1)
 master.mainloop()
+# this program is amazing
 # CUI interface below
 # job = input("Enter the job's name: ").upper().strip()
 # preorpost = input("\"Pre\" - for Predependency / \"Post\" - for Postdependency:").lower().strip()
